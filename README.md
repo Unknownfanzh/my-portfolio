@@ -1,6 +1,19 @@
-# Gaurang Jotwani's Portfolio
+# Author: Gaurang Jotwani
 
 Welcome to my online portfolio project. This portfolio showcases my skills, projects, and blog posts. It's designed to provide an overview of my experience and expertise as a developer.
+
+## Website
+
+Visit my portfolio website: [https://gaurangjotwani.github.io/my-portfolio/](https://gaurangjotwani.github.io/my-portfolio/)
+
+## Project Objectives
+
+- Showcase my skills and expertise as a developer.
+- Present my professional background, education, and technical skills.
+- Share my portfolio of past projects and contributions.
+- Provide insights through blog posts and tutorials.
+- Connect with potential employers and collaborators.
+- Foster a community of learning and engagement.
 
 ## Sections
 
