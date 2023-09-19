@@ -40,21 +40,21 @@ To run this portfolio locally on your machine, follow these steps:
 
    - Clone this GitHub repository to your local machine using the following command:
      ```bash
-     git clone https://github.com/yourusername/your-portfolio.git
+     git clone https://github.com/GaurangJotwani/my-portfolio.git
      ```
 
 2. **Navigate to the Project Directory**:
 
    - Change your current directory to the project's root folder:
      ```bash
-     cd your-portfolio
+     cd my-portfolio
      ```
 
 3. **Open the Portfolio**:
 
    - Open the `index.html` file in your preferred web browser. You can do this by double-clicking on the file or by using a command like:
      ```bash
-     open index.html
+     http-server index.html
      ```
 
 4. **Explore the Portfolio**:
