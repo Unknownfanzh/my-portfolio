@@ -65,9 +65,7 @@ To run this portfolio locally on your machine, follow these steps:
 - HTML
 - CSS (Bootstrap)
 - JavaScript
-- jQuery
-- Typed.js
-- External libraries for the lightbox and scroll-to functionality
+- External libraries for animations (Typed.js)
 
 ## Credits
 
