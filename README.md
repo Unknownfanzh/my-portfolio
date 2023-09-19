@@ -15,6 +15,11 @@ Visit my portfolio website: [https://gaurangjotwani.github.io/my-portfolio/](htt
 - Connect with potential employers and collaborators.
 - Foster a community of learning and engagement.
 
+## Screenshots
+<img width="1256" alt="image" src="https://github.com/GaurangJotwani/my-portfolio/assets/48160866/666d783a-1271-4da9-a703-c127ebbf9456">
+
+
+
 ## Sections
 
 ### 1. Home (Hero Section)
