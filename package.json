@@ -1,5 +1,5 @@
 {
-  "name": "ny-portfolio",
+  "name": "my-portfolio",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -8,14 +8,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/GaurangJotwani/Portfolio.git"
+    "url": "git+https://github.com/GaurangJotwani/my-portfolio.git"
   },
-  "author": "",
+  "author": "Gaurang Jotwani",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/GaurangJotwani/Portfolio/issues"
+    "url": "https://github.com/GaurangJotwani/my-portfolio/issues"
   },
-  "homepage": "https://github.com/GaurangJotwani/Portfolio#readme",
+  "homepage": "https://github.com/GaurangJotwani/my-portfolio#readme",
   "dependencies": {
     "http-server": "^14.1.1"
   }
