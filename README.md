@@ -83,6 +83,8 @@ To run this portfolio locally on your machine, follow these steps:
 - HTML
 - CSS (Bootstrap)
 - JavaScript
+- Github
+- Formspree
 - External libraries for animations (Typed.js)
 
 ## Credits
